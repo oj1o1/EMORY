@@ -1,2 +1,2 @@
 # EMORY
-an e-commerce
+an e-commerce with admin panel
